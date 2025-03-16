@@ -1,16 +1,7 @@
 # flutter_application_loginpage
 
-A new Flutter project.
+Screenshot Hasil
+![image](https://github.com/user-attachments/assets/97cb33ce-68d2-49c6-a819-2ec85cfb106e)
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/97e73655-06fb-4af8-98c2-69ed00dcf8ae)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
